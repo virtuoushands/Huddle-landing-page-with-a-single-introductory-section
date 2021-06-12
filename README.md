@@ -20,8 +20,7 @@ View the optimal layout for the page depending on their device's screen size
 See hover states for all interactive elements on the page.
 
 Screenshot:
-
-![active-states](https://user-images.githubusercontent.com/51507155/121786298-e1efaf00-cbb6-11eb-8f24-8265b4260813.jpg)
+![hm](https://user-images.githubusercontent.com/51507155/121787465-10bd5380-cbbe-11eb-82f7-9d97eb2a2058.PNG)
 
 
 
@@ -42,5 +41,5 @@ Mobile-first workflow
 
 Author:
 Website:https://medium.com/@Virtuoushands
-FrontEnd Mentor:
+FrontEnd Mentor:chayiltel@gmail.com
 Twitter: https://www.twitter.com/@Handzvirtuous
